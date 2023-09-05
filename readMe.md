@@ -24,10 +24,9 @@ API Details:
   
    - In MancalaPitBoard class the array pitBoard represent the board for both the players
      lets say we select number of pit size as 6 then,
-     array will be of length 6+ 1(represent large pit for each player) * 2 (represent number of player)
-     total length = 14
-     0th Index will be large pit for left player 
-     length/2 will the large pit for right player
+     array will be of length 6+ 1(represent large pit for each player) * 2 (represent number of player) =14,
+     0th Index will be large pit for left player ,
+     length/2= 7th Index will the large pit for right player
 
 
           
